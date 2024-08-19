@@ -28,7 +28,7 @@
  "tabs": [
     {
         "name": "API References",
-        "url": "sample.mdx"
+        "url": "api reference"
     },
     {
         "name": "Content",
@@ -62,7 +62,9 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "development",
+        "ample"
+        
       ]
     },
     {
