@@ -25,12 +25,20 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
-  "tabs": [
+ "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+        "name": "API References",
+        "url": "sample.mdx"
+    },
+    {
+        "name": "Content",
+        "url": "content"
+    },
+    {
+        "name": "Blog",
+        "url": "https://your-website.com/blog"
     }
-  ],
+],
   "anchors": [
     {
       "name": "Documentation",
